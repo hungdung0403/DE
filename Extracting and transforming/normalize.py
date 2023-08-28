@@ -6,9 +6,9 @@ import random
 import time
 from datetime import datetime
 
-orders_df   = pd.read_csv('loading data\order_data.csv')
-customer_df   = pd.read_csv('loading data\customer_data.csv')
-employee_df   = pd.read_csv('loading data\employee_data.csv')
+orders_df   = pd.read_csv('Extracting and transforming\order_data.csv')
+customer_df   = pd.read_csv('Extracting and transforming\customer_data.csv')
+employee_df   = pd.read_csv('Extracting and transforming\employee_data.csv')
 
 
 customer_df
@@ -28,7 +28,7 @@ customer_df['province_id'] = province_ids
 
 customer_df = customer_df.drop(['province', 'province_code'],axis=1)
 # update the customer_df
-customer_df.to_csv("loading data\customer_data.csv")
+customer_df.to_csv("Extracting and transforming\customer_data.csv")
 province_df
 
 """#Creating department_df and normalizing employee_df"""
@@ -48,8 +48,8 @@ employee_df
 
 employee_df = employee_df.drop(['company'],axis=1)
 # update the customer_df
-employee_df.to_csv("loading data\employee_data.csv")
+employee_df.to_csv("Extracting and transforming\employee_data.csv")
 
 # save province and compan to csv
-company_df.to_csv("loading data\company_data.csv")
-province_df.to_csv("loading data\province_data.csv")
+company_df.to_csv("Extracting and transforming\company_data.csv")
+province_df.to_csv("Extracting and transforming\province_data.csv")
