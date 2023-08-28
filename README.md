@@ -1,3 +1,3 @@
 # DE
 A data engineer project
-![alt text](https://github.com/hungdung0403/DE/blob/main/Untitled%20Diagram.drawio%20(1).png)
+This project was created with the purpose of enabling store managers to make data-driven decisions. It includes web scraping based on API endpoints, data processing and transformation, database and data warehouse loading and design, and finally, analysis and decision-making.
