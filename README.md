@@ -4,4 +4,4 @@ In this project, I collected data from the Tiki website using API Endpoint. I al
 Original data:
 ![alt text](https://github.com/hungdung0403/DE/blob/main/Extracting%20and%20transforming/s1.png)
 Data after being loaded into the database:
-![alt text]((https://github.com/hungdung0403/DE/blob/main/Extracting%20and%20transforming/s1.png)
+![alt text](https://github.com/hungdung0403/DE/blob/main/Extracting%20and%20transforming/s1.png)
