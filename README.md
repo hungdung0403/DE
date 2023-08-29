@@ -6,4 +6,4 @@ Original data:<br />
 ![alt text](https://github.com/hungdung0403/DE/blob/main/Extracting%20and%20transforming/s1.png)
 <br />
 Data after being loaded into the database:<br />
-![alt text](https://github.com/hungdung0403/DE/blob/main/Extracting%20and%20transforming/s1.png)
+![alt text](https://github.com/hungdung0403/DE/blob/main/Extracting%20and%20transforming/s2.png)
