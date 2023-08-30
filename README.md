@@ -14,3 +14,5 @@ In this project, I collected data from the Tiki website using API Endpoint. I al
 ![alt text](https://github.com/hungdung0403/DE/blob/main/Designing%20the%20Data%20Warehouse/S3.drawio.png)
 <br />
 <br />
+***And finally Power BI Dashboard for analysis and evaluation purposes:***<br />
+![alt text](https://github.com/hungdung0403/DE/blob/main/Analyzing%20the%20Data/Sale%20RP.jpg)
