@@ -17,4 +17,4 @@ In this project, I collected data from the Tiki website using API Endpoint. I al
 ***And finally Power BI Dashboard for analysis and evaluation purposes:***<br />
 <br />
 <br />
-![alt text](https://github.com/hungdung0403/DE/blob/main/Analyzing%20the%20Data/Sale%20RP.jpg)
+![alt text](https://github.com/hungdung0403/DE/blob/main/Analyzing%20the%20Data/SaleRP.jpg)
