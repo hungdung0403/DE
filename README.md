@@ -7,3 +7,5 @@ Original data:<br />
 <br />
 Data after being loaded into the database:<br />
 ![alt text](https://github.com/hungdung0403/DE/blob/main/Extracting%20and%20transforming/s2.1.png)
+Data warehouse structure after being built:<br />
+![alt text]([https://github.com/hungdung0403/DE/blob/main/Extracting%20and%20transforming/s2.1.png](https://github.com/hungdung0403/DE/blob/main/Designing%20the%20Data%20Warehouse/S3.drawio.png)https://github.com/hungdung0403/DE/blob/main/Designing%20the%20Data%20Warehouse/S3.drawio.png)
