@@ -13,7 +13,7 @@ Finally, I used the Power BI tool to model the data into a dashboard for analysi
 <br />
 <br />
 ***Data warehouse structure after being built:***<br />
-![alt text](https://github.com/hungdung0403/DE/blob/main/Designing%20the%20Data%20Warehouse/S3.drawio.png)
+![alt text](https://github.com/hungdung0403/DE/blob/main/Designing%20the%20Data%20Warehouse/S3.1.png)
 <br />
 <br />
 ***And finally Power BI Dashboard for analysis and evaluation purposes:***<br />
