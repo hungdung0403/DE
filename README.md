@@ -19,4 +19,4 @@ Finally, I used the Power BI tool to model the data into a dashboard for analysi
 ***And finally Power BI Dashboard for analysis and evaluation purposes:***<br />
 <br />
 <br />
-![alt text](https://github.com/hungdung0403/DE/blob/main/Analyzing%20the%20Data/REPORT.PNG)
+![alt text](https://github.com/hungdung0403/DE/blob/main/Analyzing%20the%20Data/REPORT.png)
